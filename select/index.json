@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "After Rain",
+  "base_artist": "3House",
+  "createdAt": "2026-01-09T13:59:32.598148Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "After Rain",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/01_After_Rain_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "After Rain (Scarlet ver)",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/02_After_Rain_(Scarlet_ver)_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "After Rain",
+      "artist": "AKB48",
+      "has_synced": false,
+      "path": "select/03_After_Rain_AKB48.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Rainbow After Rain",
+      "artist": "The Simps feat. Eyedress & zzzahara",
+      "has_synced": true,
+      "path": "select/04_Rainbow_After_Rain_The_Simps_feat._Eyedress_&_zzzahara.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Rainbow After Rain",
+      "artist": "The Simps",
+      "has_synced": true,
+      "path": "select/05_Rainbow_After_Rain_The_Simps.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "After Rain -Scarlet ver.- - Scarlet Version",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/06_After_Rain_-Scarlet_ver.-_-_Scarlet_Version_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "After Rain -Scarlet ver.-",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/07_After_Rain_-Scarlet_ver.-_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "After Rain",
+      "artist": "JKT48",
+      "has_synced": true,
+      "path": "select/08_After_Rain_JKT48.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "After Rain",
+      "artist": "彩音",
+      "has_synced": false,
+      "path": "select/09_After_Rain_彩音.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "After Rain",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/10_After_Rain_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "After Rain",
+      "artist": "Dermot Kennedy",
+      "has_synced": true,
+      "path": "select/11_After_Rain_Dermot_Kennedy.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "After Rain",
+      "artist": "Dermot Kennedy",
+      "has_synced": true,
+      "path": "select/12_After_Rain_Dermot_Kennedy.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "After Rain",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/13_After_Rain_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "After Rain",
+      "artist": "Nokturnl",
+      "has_synced": false,
+      "path": "select/14_After_Rain_Nokturnl.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "After Rain (Scarlet ver.)",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/15_After_Rain_(Scarlet_ver.)_Aimer.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "After Rain",
+      "artist": "3House",
+      "has_synced": false,
+      "path": "select/pl_01_After_Rain_3House.txt"
+    }
+  ]
+}
